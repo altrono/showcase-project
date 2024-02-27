@@ -1,7 +1,7 @@
 {
   "name": "nft-showcase",
   "version": "0.1.0",
-  "homepage": "https://altrono.github.io/altrono/showcase-project",
+  "homepage": "https://altrono.github.io/showcase-project",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
